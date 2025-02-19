@@ -1,0 +1,1 @@
+﻿global using System.Collections.ObjectModel; // for Observable Collection - when you add data in database its added here automatically
